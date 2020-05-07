@@ -4,7 +4,7 @@ such as some methods contained by Node.js `fs` module, we can promisify these as
 
 ```
 const fs = require("fs");
-const promisify = require("simplePromisify");
+const promisify = require("easy-promisify");
 const readFilePromise = promisify(fs.readFile, fs); // context is not required, ie fs
 readFilePromise("file/path", "utf8")
   .then(file => console.log(file))

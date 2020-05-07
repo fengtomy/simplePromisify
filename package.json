@@ -1,5 +1,5 @@
 {
-  "name": "simple-promisify",
+  "name": "easy-promisify",
   "version": "1.0.0",
   "description": "promisify error first async callback",
   "main": "simplePromisify.js",
