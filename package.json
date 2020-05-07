@@ -1,0 +1,19 @@
+{
+  "name": "simplePromisify",
+  "version": "1.0.0",
+  "description": "promisify error first async callback",
+  "main": "simplePromisify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["promisify", "callback", "promise"],
+  "author": {
+    "name": "fengxh",
+    "email": "shangfxh@gmail.com"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fengtomy/simplePromisify.git"
+  }
+}
